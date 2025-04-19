@@ -172,3 +172,26 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Don't push your virtual environment
+venv/
+.venv/
+
+# Don't push your API keys and secrets
+.env
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Model
+chatbot/
+*.gguf
