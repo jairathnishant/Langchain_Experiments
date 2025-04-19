@@ -8,3 +8,5 @@ llama-cpp-python
 langserve
 fastapi
 uvicorn
+sse_starlette
+langchain-ollama
