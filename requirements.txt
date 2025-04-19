@@ -5,3 +5,6 @@ streamlit
 langchain_community
 langchain_huggingface
 llama-cpp-python
+langserve
+fastapi
+uvicorn

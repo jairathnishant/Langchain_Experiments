@@ -193,5 +193,4 @@ __pycache__/
 Thumbs.db
 
 # Model
-chatbot/
 *.gguf
