@@ -13,3 +13,6 @@ langchain-ollama
 bs4
 chromadb
 faiss-cpu
+groq
+langchain-groq
+beautifulsoup4
