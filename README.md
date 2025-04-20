@@ -1,11 +1,14 @@
-<<<<<<<<<Commit 1>>>>>>>>>
-Chatbot using langchain, llama (GGUF) on local cpu
+<<<<<<<<<Commit 1>>>>>>>>> /n
 
-<<<<<<<<<Commit 2>>>>>>>>>
-Added second ollama based tinyllama model
+**Chatbot using langchain, llama (GGUF) on local cpu**
 
-<<<<<<<<<Commit 3>>>>>>>>>
-FastAPI Server Code
+<<<<<<<<<Commit 2>>>>>>>>> /n
+
+**Added second ollama based tinyllama model**
+
+<<<<<<<<<Commit 3>>>>>>>>> /n
+
+**FastAPI Server Code** /n
 This code implements a backend server using FastAPI that serves two language models:
 
 LlamaCpp Model: A locally loaded Llama 2 model (7B parameters) with quantization.
@@ -24,3 +27,7 @@ Select between two language models ("tinyllama" or "llama2") via a dropdown menu
 Enter a text prompt in an input field
 Submit the prompt to the appropriate model endpoint on the backend server
 Display the generated response
+
+<<<<<<<<<Commit 4>>>>>>>>> /n
+
+**Developed RAG pipeline using Chromadb and llama2 in local cpu**

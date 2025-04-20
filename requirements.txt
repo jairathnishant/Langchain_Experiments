@@ -10,3 +10,6 @@ fastapi
 uvicorn
 sse_starlette
 langchain-ollama
+bs4
+chromadb
+faiss-cpu
